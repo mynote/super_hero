@@ -9,7 +9,7 @@
 
 ### Importing the package
 ```dart
-import 'package:super_hero/super_hero.dart';
+import 'package:super_hero_new/super_hero.dart';
 ```
 
 ### Retrieving a random super-hero name

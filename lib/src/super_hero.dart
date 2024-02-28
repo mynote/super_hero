@@ -1,4 +1,4 @@
-library super_hero;
+library super_hero_new;
 
 import 'dart:math';
 

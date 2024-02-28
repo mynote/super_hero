@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:super_hero/super_hero.dart';
+import 'package:super_hero_new/super_hero.dart';
 
 void main() => runApp(SuperHeroIllustrator());
 
