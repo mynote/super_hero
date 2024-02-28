@@ -14,7 +14,7 @@ import 'package:super_hero_new/super_hero.dart';
 
 ### Retrieving a random super-hero name
 ```dart
-SuperHero.random(); // returns a random super-hero name
+SuperHero.random() // returns a random super-hero name
 ```
 
 ### `pubspec` set-Up
